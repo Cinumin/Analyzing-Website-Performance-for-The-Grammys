@@ -8,7 +8,7 @@ A five-year analysis of web analytics from The Recording Academy, examining whet
 
 In 2022 The Recording Academy's VP of Digital Strategy split a single web property into two: grammy.com for music fans and recordingacademy.com for industry professionals. The business question was whether the split served those two audiences better, and whether an organization whose traffic depends on one night a year can keep people coming back the other 364.
 
-My job: measure the before-and-after, benchmark against a competitor, and deliver a recommendation — keep the sites separate, merge them back, or something else.
+My job was to measure the before-and-after, benchmark against a competitor, and deliver a recommendation: keep the sites separate, merge them back, or something else.
 
 ## The data
 
